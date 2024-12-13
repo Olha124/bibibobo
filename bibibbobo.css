@@ -1,11 +1,15 @@
 body{
 
-    background-color: rgb(255, 190, 254)
-    img {
-        width: 600px;
-        height: 800px;
+    background-color: rgb(255, 190, 254) }
+    
+    h1{
+
+        font-style: italic;
+        text-align: center;
     }
     p {
-        color:rgb(0, 0, 0);
-        font-size: 30px;
+
+        font-size: larger;
+        text-align: center;
+
     }
